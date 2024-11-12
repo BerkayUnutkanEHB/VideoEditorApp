@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  VideoEditorApp
 //
-//  Created by Berkay Unutkan on 12/11/2024.
+//  Created by Berkay Mella on 12/11/2024.
 //
 
 import SwiftUI
@@ -13,7 +13,7 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Hello, world!")
+            Text("Hello!")
         }
         .padding()
     }
